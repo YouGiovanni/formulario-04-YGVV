@@ -6,6 +6,8 @@
     </div>
     <div class="col-12 col-md-6">
       <img :src="url" :alt="alt" width="100">
+      <br>
+      <h2>Alumno: Valencia Vazquez You Giovanni</h2>
     </div>
     </div>
 </template>
